@@ -1,5 +1,6 @@
-# DAO
-crypto ubi dao
+# Crypto UBI DAO
+
+# Fund KYC for Crypto UBI Anti Sybil and/or Fund Efforts to Hasten Defeat of Aging
 
 This is about funding anti-sybil methods for cryptocurrency basic incomes. 
 
