@@ -1,6 +1,6 @@
 # Crypto UBI DAO
 
-# Monero as a way of implementing a form of basic income (August 2023) 
+## Monero as a way of implementing a form of basic income (August 2023) 
 
 Biometic and various crypto UBI projects have problems. The cryptocurrency Monero could potentially be a way to mitigate some or all of these problems. 
 
@@ -14,7 +14,7 @@ https://monero.town/
 
 I am adding this info now. More on this later. 
 
-# Fund KYC for Crypto UBI Anti Sybil and/or Fund Efforts to Hasten Defeat of Aging (Created in August 2020)
+## Fund KYC for Crypto UBI Anti Sybil and/or Fund Efforts to Hasten Defeat of Aging (Created in August 2020)
 
 This is about funding anti-sybil methods for cryptocurrency basic incomes. 
 
