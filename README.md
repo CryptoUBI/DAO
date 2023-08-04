@@ -2,7 +2,7 @@
 
 ## Monero as a way of implementing a form of basic income (August 2023) 
 
-Biometic and various crypto UBI projects have problems. The cryptocurrency Monero could potentially be a way to mitigate some or all of these problems. 
+Biometric and various crypto UBI projects have problems. The cryptocurrency Monero could potentially be a way to mitigate some or all of these problems. 
 
 https://github.com/CryptoUBI/Monero_Subscriptions_Wallet
 
